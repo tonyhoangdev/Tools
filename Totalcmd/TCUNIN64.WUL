@@ -108,6 +108,8 @@ TOTALCMD64.EXE.MANIFEST
 TOTALCMD.EXE.MANIFEST
 $desktop$\Total Commander 64 bit.lnk
 $common_desktop$\Total Commander 64 bit.lnk
+$desktop$\Total Commander.lnk
+$common_desktop$\Total Commander.lnk
 CGLPT64.SYS
 CGLPTNT.SYS
 CGLPT9X.VXD
